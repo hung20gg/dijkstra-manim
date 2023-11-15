@@ -7,7 +7,7 @@
 * ID: 11224897 Vu Minh Nhat
 * ID: 11220502 Nguyen Tue Anh
 * ID: 11226974 Dinh Dao Lan Vy
-* ID: Nguyen Gia Bao
+* ID: 11220799 Nguyen Gia Bao
 * ID: Duong Phuong Giang
 
 ### Overview of the project
