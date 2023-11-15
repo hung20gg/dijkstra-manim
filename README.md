@@ -1,6 +1,6 @@
 # Visualize Dijkstra's shortest path algorithm with Manim
 
-## This is a project from Group 1 for module "Programming for Data Science" for major Data Science in Economics and Business, National Economic University
+## This is a project from **Group 1** for module "Programming for Data Science" for major Data Science in Economics and Business, National Economic University
 
 ### Member of the group
 * ID: 11222618 Nguyen Quang Hung
@@ -11,11 +11,11 @@
 * ID: Duong Phuong Giang
 
 ### Overview of the project
-Our aim is to focus on the fundemental of the algorithm, illustrating the advance of Dijkstra's algorithm in comparison with other common existing path-finding algorithm.
+Our objective is to delve into the fundamentals of the algorithm, elucidating the advancements of Dijkstra's algorithm in contrast to other prevalent path-finding algorithms.
 
-The paper of the project can be found in the repository.
+After careful consideration, we dhave opted to transform our traditional report into a more comprehensive paper. The paper of the project can be found in the repository.
 
-We mainly use **Google Colab** for this project, so the notebook for each part can be found by the given link 
+We use **Google Colab** for this project, so the notebook for each part can be found by the given link. 
 
 ### Our project have four main parts:
 * Initialize the path-finding problem [Initialize the problem](https://colab.research.google.com/drive/1v-msP3cjDrUYQZCFuw0Rmf1ddp-LyNbC?usp=sharing)
