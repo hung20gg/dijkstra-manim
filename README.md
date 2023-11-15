@@ -10,6 +10,8 @@ Our aim is to focus on the fundemental of the algorithm, illustrating the advanc
 
 The paper of the project can be found in the repository.
 
+We mainly use **Google Colab** for this project, so the notebook for each part can be found by the given link 
+
 ### Our project have four main parts:
 * Initialize the path-finding problem [Initialize the problem](https://colab.research.google.com/drive/1v-msP3cjDrUYQZCFuw0Rmf1ddp-LyNbC?usp=sharing)
 * Other approachs to tackle the problem [Brute Force and Bellman Ford Algorithm](https://colab.research.google.com/drive/1bneU4oj7qQWKO-faKtpd_VYL9PmibubZ?usp=sharing)
