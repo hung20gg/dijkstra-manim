@@ -23,6 +23,8 @@ We use **Google Colab** for this project, so the notebook for each part can be f
 * Explain Dijkstra's shortest path algorithm [Explain Dijkstra](https://colab.research.google.com/drive/1w9pD1SdcHkPcmewvHHJCZDBZOKPrfzAF?usp=sharing)
 * Dijkstra's algorithm implementation in real-life [Google Maps](https://colab.research.google.com/drive/1QMj0EnF06blLqESPbKWfpHli7Qi7H-Sz?usp=sharing)
 
+For better understanding, read [Explain Dijkstra notebook](https://colab.research.google.com/drive/1w9pD1SdcHkPcmewvHHJCZDBZOKPrfzAF?usp=sharing) before looking at other files. This notebook contain documentation for mostly every class, method and attribute in this project 
+
 ### Participant rating
 * Nguyen Quang Hung 20%
 * Vu Minh Nhat 16%
