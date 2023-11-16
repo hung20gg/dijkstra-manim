@@ -27,8 +27,8 @@ For better understanding, read [Explain Dijkstra notebook](https://colab.researc
 
 ### Participant rating
 * Nguyen Quang Hung 20%
-* Vu Minh Nhat 16%
+* Vu Minh Nhat 16.5%
 * Nguyen Tue Anh 16%
-* Dinh Dao Lan Vy 16%
-* Nguyen Gia Bao 16%
-* Duong Phuong Giang 16%
+* Dinh Dao Lan Vy 16.5%
+* Nguyen Gia Bao 14.5%
+* Duong Phuong Giang 16.5%
