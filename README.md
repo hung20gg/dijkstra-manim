@@ -8,7 +8,7 @@
 * ID: 11220502 Nguyen Tue Anh
 * ID: 11226974 Dinh Dao Lan Vy
 * ID: 11220799 Nguyen Gia Bao
-* ID: Duong Phuong Giang
+* ID: 11221733 Duong Phuong Giang
 
 ### Overview of the project
 Our objective is to delve into the fundamentals of the algorithm, elucidating the advancements of Dijkstra's algorithm in contrast to other prevalent path-finding algorithms.
@@ -27,8 +27,8 @@ For better understanding, read [Explain Dijkstra notebook](https://colab.researc
 
 ### Participant rating
 * Nguyen Quang Hung 20%
-* Vu Minh Nhat 16.5%
+* Vu Minh Nhat 17%
 * Nguyen Tue Anh 16%
 * Dinh Dao Lan Vy 16.5%
-* Nguyen Gia Bao 14.5%
+* Nguyen Gia Bao 14%
 * Duong Phuong Giang 16.5%
