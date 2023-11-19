@@ -25,6 +25,8 @@ We use **Google Colab** for this project, so the notebook for each part can be f
 
 For better understanding, read [Explain Dijkstra notebook](https://colab.research.google.com/drive/1w9pD1SdcHkPcmewvHHJCZDBZOKPrfzAF?usp=sharing) before looking at other files. This notebook contain documentation for mostly every class, method and attribute in this project 
 
+Our final video [Shortest Path Algorithm](https://drive.google.com/drive/folders/1WMfoUz6-hHBn1Ao7GRh1w8EruujPUpCR?usp=sharing)
+
 ### Participant rating
 * Nguyen Quang Hung 20%
 * Vu Minh Nhat 17%
